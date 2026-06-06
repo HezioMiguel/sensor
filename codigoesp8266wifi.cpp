@@ -94,7 +94,7 @@ private:
 
     <li><strong>0–99:</strong> Ar Limpo : ar sem impuresas, proprio para o ambiente.</li> 
     <li><strong>100–299:</strong> Moderado: apresenta impuresas e pode causar irritações,dor de cabeça, tontura, entre outros encomodos.</li> 
-    <li><strong>300+:</strong> Poluído: Tu morre.</li>
+    <li><strong>300+:</strong> Poluído: Nível crítico de toxicidade. Evacuação imediata recomendada.</li>
 </ul>
 
 
