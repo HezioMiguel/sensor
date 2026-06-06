@@ -10,10 +10,7 @@ class MQ135 {
 private:
     int valorAtual;
 
-public:
-    void iniciar() {
-        // Nada necessário aqui agora
-    }
+
 
     void atualizarValor() {
         if (Serial.available()) {
